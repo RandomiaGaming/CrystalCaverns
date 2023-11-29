@@ -1,0 +1,3 @@
+Crystal_Caverns_Crystal_Caverns= Crystal Caverns
+poem_Crystal_Caverns_Crystal_Caverns_A= Crystal Caverns Complete!
+Crystal_Caverns_Credits= {>> 256}Crystal Caverns - Version 1.0.0 - RandomiaGaming{>>}
